@@ -1,0 +1,15 @@
+C:\Users\AbhinavTyagi\Downloads\DotnetCoding (1)\DotnetCoding\DotnetCoding.Services\bin\Debug\net6.0\DotnetCoding.Services.deps.json
+C:\Users\AbhinavTyagi\Downloads\DotnetCoding (1)\DotnetCoding\DotnetCoding.Services\bin\Debug\net6.0\DotnetCoding.Services.dll
+C:\Users\AbhinavTyagi\Downloads\DotnetCoding (1)\DotnetCoding\DotnetCoding.Services\bin\Debug\net6.0\DotnetCoding.Services.pdb
+C:\Users\AbhinavTyagi\Downloads\DotnetCoding (1)\DotnetCoding\DotnetCoding.Services\bin\Debug\net6.0\DotnetCoding.Core.dll
+C:\Users\AbhinavTyagi\Downloads\DotnetCoding (1)\DotnetCoding\DotnetCoding.Services\bin\Debug\net6.0\DotnetCoding.Core.pdb
+C:\Users\AbhinavTyagi\Downloads\DotnetCoding (1)\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\DotnetCoding.Services.csproj.AssemblyReference.cache
+C:\Users\AbhinavTyagi\Downloads\DotnetCoding (1)\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\DotnetCoding.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbhinavTyagi\Downloads\DotnetCoding (1)\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\DotnetCoding.Services.AssemblyInfoInputs.cache
+C:\Users\AbhinavTyagi\Downloads\DotnetCoding (1)\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\DotnetCoding.Services.AssemblyInfo.cs
+C:\Users\AbhinavTyagi\Downloads\DotnetCoding (1)\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\DotnetCoding.Services.csproj.CoreCompileInputs.cache
+C:\Users\AbhinavTyagi\Downloads\DotnetCoding (1)\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\DotnetCoding.Services.csproj.CopyComplete
+C:\Users\AbhinavTyagi\Downloads\DotnetCoding (1)\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\DotnetCoding.Services.dll
+C:\Users\AbhinavTyagi\Downloads\DotnetCoding (1)\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\refint\DotnetCoding.Services.dll
+C:\Users\AbhinavTyagi\Downloads\DotnetCoding (1)\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\DotnetCoding.Services.pdb
+C:\Users\AbhinavTyagi\Downloads\DotnetCoding (1)\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\ref\DotnetCoding.Services.dll
